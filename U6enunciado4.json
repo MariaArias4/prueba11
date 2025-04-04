@@ -1,0 +1,58 @@
+{
+    "contactos": {
+        "contacto": [{
+            "nombreCompleto": "Juan Pérez",
+            "numeroTel": "+123456789",
+            "correoEl": "juan@example.com",
+            "ciudadResidencia": "Ciudad A",
+            "direcciones": [{
+                "calle": 123,
+                "ciudad": "A",
+                "pais": "A"
+            },
+            {
+                "calle": "Avenida Central",
+                "ciudad": "A",
+                "pais": "B"
+            }]
+        },
+        {
+            "nombreCompleto": "María García",
+            "numeroTel": "+987654321",
+            "correoEl": "maria@example.com",
+            "ciudadResidencia": "Ciudad B",
+            "direcciones": {
+                "calle": 456,
+                "ciudad": "B",
+                "pais": "B"
+            }
+        },
+        {
+            "nombreCompleto": "Carlos López",
+            "numeroTel": "+555555555",
+            "correoEl": "carlos@example.com",
+            "ciudadResidencia": "Ciudad C",
+            "direcciones": {
+                "calle": 789,
+                "ciudad": "C",
+                "pais": "C"
+            }
+        },
+        {
+            "nombreCompleto": "Ana Martínez",
+            "numeroTel": "+999999999",
+            "correoEl": "ana@example.com",
+            "ciudadResidencia": "Ciudad A",
+            "direcciones": [{
+                "calle": 987,
+                "ciudad": "A",
+                "pais": "A"
+            },
+            {
+                "calle": "Plaza Mayor",
+                "ciudad": "A",
+                "pais": "A"
+            }]
+        }]
+    }
+}
